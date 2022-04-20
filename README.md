@@ -100,22 +100,14 @@ plt.show()
 
 <div  align="center"> <img src="/img/sh_boll.png" width = "960" height = "480" alt="boll" /> </div>
 
-
-----------------------------------------------------
-### 团队其他开源项目 - 如果本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
-* [MyTT 通达信,同花顺公式指标，文华麦语言的python实现](https://github.com/mpquant/MyTT)
-
-* [Hb_Spark数字货币高速免费实时行情服务器,量化必备](https://github.com/mpquant/huobi_intf)
-
-* [Ashare最简股票行情数据接口API,A股行情完全开源免费](https://github.com/mpquant/Ashare)
+#
+### ### 团队其他项目-如本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
+- [Python小白互动学习基础教程+一体化实训软件](https://github.com/CodeBang06/Pythoncoder)
+- [Python语法基础课Python-syntax-courses](https://github.com/CodeBang06/Python-syntax-courses)
+- [Python 经典小例子、小案例](https://github.com/CodeBang06/python-examples)
 
 
-### 巴特量化
-* 股市量化工具 行情系统软件开发 通达信同花顺公式开发 python量化系统开发
+请微信扫码加入Python技术交流群获取教程的配套资料
 
-----------------------------------------------------
+![75](https://user-images.githubusercontent.com/103555341/163770456-42dbd01a-60c2-48f4-9321-04849ac35436.jpg)
 
-![加入群聊](https://github.com/mpquant/Ashare/blob/main/img/qrcode.png) 
-
-> #### 股市程序化交易大群, 圈内大咖量化策略分享
-> #### 全是干货，无闲聊 ，物以类聚,人以群分，一起感受思维碰撞的力量!
