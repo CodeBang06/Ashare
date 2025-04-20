@@ -109,6 +109,7 @@ plt.show()
 
 请微信扫码加入Python技术交流群获取教程的配套资料
 
-![春风微码](https://github.com/user-attachments/assets/686f8ec4-dd45-4342-8fb0-eaf9345d2bf4)
+![风吹麦浪](https://github.com/user-attachments/assets/c416cbf3-aa38-4a51-8dda-182df5f55841)
+
 
 
