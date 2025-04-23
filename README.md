@@ -107,9 +107,10 @@ plt.show()
 - [Python 经典小例子、小案例](https://github.com/CodeBang06/python-examples)
 
 
-请微信扫码加入Python技术交流群获取教程的配套资料
+请QQ扫码加入Python技术交流群获取教程的配套资料
 
-![风吹麦浪](https://github.com/user-attachments/assets/c416cbf3-aa38-4a51-8dda-182df5f55841)
+![春光里](https://github.com/user-attachments/assets/3bf60763-9fc0-4328-9327-6a9e3e9f0a69)
+
 
 
 
